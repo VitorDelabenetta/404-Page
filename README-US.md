@@ -22,21 +22,21 @@
 ## 💻 Project
 
 Error 404 page that presents responsivity, produced from my basic knowledge in HTML and CSS.
+
 <br>
+
 The project was produced following several tutorials on the Internet, mainly on YouTube. Making this project allowed me to study about the elements and attributes used in HTML and CSS, mainly in terms of animations using this second technology.
+
 <br>
 
 ### ⚙ Update 
 - Done on August 24, 2023.
+
 <br>
+
 On this date, I made a general update in the project, changing the paths within the HTML and CSS code after creating and organizing the project directories. Just a few changes were made to the code.
+
 <br>
-
-## Preview
-
-<img src="./404 Page/image/preview/preview-error-page.png" alt="imagem-da-página-de-erro">
-
-<br><br>
 
 ## 🛠 Technologies
 
